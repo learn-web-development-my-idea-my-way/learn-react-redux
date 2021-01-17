@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 .vercel
+=======
+<<<<<<< HEAD
+node_modules
+=======
+.vercel
+>>>>>>> a31c48a46a5ce66274bf8d147bfcbf63a0d2e502
+>>>>>>> master
